@@ -4,11 +4,7 @@ ATK is a simple script that allows you to easily install and set up a full web s
 
 ## Usage
 
-First, clone the github repository: `git clone https://github.com/dr-vortex/atk.git`
-Then install ATK: `atk/install.sh`
-After that, you can use ATK. Run `atk --help` to get details on commands.
-
-### Setting up a web server
+First, clone the github repository (`git clone https://github.com/dr-vortex/atk.git`) and install ATK (`atk/install.sh`). After that, you can use ATK. Run `atk --help` to get details on commands.
 
 After installing ATK, running the following commands can get you a running web server in seconds:
 ```sh
